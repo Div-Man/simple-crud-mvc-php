@@ -1,0 +1,19 @@
+{
+    "name": "mexatpoh11/html",
+    "autoload": {
+        "psr-4": {
+            "Mexatpoh11\\Html\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mexatpoh11",
+            "email": "dima@yandex.ru"
+        }
+    ],
+    "require": {
+        "cocur/slugify": "^4.1",
+        "swiftmailer/swiftmailer": "^6.0",
+        "nette/mail": "^3.1"
+    }
+}
